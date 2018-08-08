@@ -9,5 +9,5 @@ Express - Express delivery must find the fastest route to delivery the package. 
           delivery service can have up to 3 packages being delivered at any one trip.
           
 By Drone - Delivery by drone means that only one package can be delivered at a time. The 
-           package must be under 1 - pound and under 1 sq ft. They do not need to find a
+           package must be under 10 pounds and under 1 sq ft. They do not need to find a
            route (since roads are not used).
