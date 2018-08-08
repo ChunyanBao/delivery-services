@@ -1,4 +1,7 @@
 # delivery-services
+
+Copyright (c) 2018 ChunyanBao
+
 The purpose of this program is to create an object oriented program that will provide 
 three different types of delivery service: Standard, Express, and by Drone.
 
