@@ -1,6 +1,12 @@
-//Open Source Project
-//Delivery Services
-//Chunyan Bao  7/31/2018
+//Open Source Project: Delivery Services
+
+// Copyright (c) 2018 ChunyanBao 
+// This program is released under the "MIT license". 
+
+//Open Source Project: Delivery Services
+
+// Copyright (c) 2018 ChunyanBao 
+// This program is released under the "MIT license". 
 
 /*
 The purpose of this program is to create an object oriented program 
