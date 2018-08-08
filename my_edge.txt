@@ -1,0 +1,8 @@
+Portland#Salem#50#100#
+Salem#Eugene#70#80#
+Eugene#Medford#30#70#
+Salem#Medford#50#100#
+Portland#Gresham#20#30#
+Gresham#Hillsboro#45#60#
+Gresham#Salem#100#100#
+Hillsboro#Medford#30#30#
