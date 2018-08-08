@@ -1,0 +1,10 @@
+Medford#10#20#
+Medford#10#5#	
+Medford#20#6#
+Medford#5#10#
+Medford#7#30#
+Medford#8#0.8# 
+Medford#20#10#
+Medford#30#9#
+Medford#20#8#
+Medford#15#6#
