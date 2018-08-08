@@ -1,8 +1,8 @@
 # delivery-services
 
-MIT License
-
 Copyright (c) 2018 ChunyanBao
+
+This program is released under the "MIT license".
 
 The purpose of this program is to create an object oriented program that will provide 
 three different types of delivery service: Standard, Express, and by Drone.
