@@ -1,7 +1,6 @@
 //Open Source Project: Delivery Services
 
 // Copyright (c) 2018 ChunyanBao 
-
 // This program is released under the "MIT license". 
 
 /*
