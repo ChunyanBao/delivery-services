@@ -4,6 +4,8 @@ Copyright (c) 2018 ChunyanBao
 
 This program is released under the "MIT license".
 
+# Program Description
+
 The purpose of this program is to create an object oriented program that will provide 
 three different types of delivery service: Standard, Express, and by Drone.
 
@@ -16,3 +18,4 @@ Express - Express delivery must find the fastest route to delivery the package. 
 By Drone - Delivery by drone means that only one package can be delivered at a time. The 
            package must be under 10 pounds and under 1 sq ft. They do not need to find a
            route (since roads are not used).
+          
