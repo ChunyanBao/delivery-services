@@ -25,8 +25,6 @@ By Drone - Delivery by drone means that only one package can be delivered
 */
 
 /*
-The purpose of this program is to create an object oriented program that will provide three
-different types of delivery service: Standard, Express, and by Drone.
 This "graph.h" includes two classes: location and graph
 Location class hold the information of the class and a edge node pointer to head
 */
