@@ -47,7 +47,7 @@ By Drone - For By Drone delivery, only one package can be delivered at a time. T
  
            1.	Standard delivery
            
-                      Package lists before delivery
+                      Package list before delivery
                       
                       The shortest route 
                       
@@ -57,7 +57,7 @@ By Drone - For By Drone delivery, only one package can be delivered at a time. T
                       
            2.	Express delivery
            
-                      Package lists before delivery
+                      Package list before delivery
                       
                       The fasted route 
                       
@@ -67,7 +67,7 @@ By Drone - For By Drone delivery, only one package can be delivered at a time. T
                       
            3.	By Drone
            
-                      Package lists before delivery
+                      Package list before delivery
                       
                       Remaining package list after delivery
                       
