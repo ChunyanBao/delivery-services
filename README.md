@@ -71,7 +71,13 @@ By Drone - For By Drone delivery, only one package can be delivered at a time. T
                       
                       Remaining package list after delivery
                       
- # Build Instructions        
+ # Build Instructions
+ 
+1.	Clone the project. git clone https://github.com/ChunyanBao/delivery-services.git
+2.	Open the files. vim –p *.cpp *.h
+3.	Compile. g++ *.cpp –g –Wall –std=c++11
+4.	Run.  ./a.out
+
 
 
            
