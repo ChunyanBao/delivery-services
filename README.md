@@ -20,3 +20,5 @@ By Drone - For By Drone delivery, only one package can be delivered at a time. T
            route (since roads are not used).
           
 # User Guide
+
+* This program needs three external text files for input:
