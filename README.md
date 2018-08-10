@@ -42,6 +42,35 @@ By Drone - For By Drone delivery, only one package can be delivered at a time. T
            2.	Set up the origination and destination.
            
            3.	Set up the maximum packages can be delivered at once by standard delivery and express delivery.
+           
+ * Output 
+ 
+           1.	Standard delivery
+           
+                      Package lists before delivery
+                      
+                      The shortest route 
+                      
+                      Remaining package list after delivery
+                      
+                      Total distance of the route
+                      
+           2.	Express delivery
+           
+                      Package lists before delivery
+                      
+                      The fasted route 
+                      
+                      Remaining package list after delivery
+                      
+                      Total time spent for the delivery
+                      
+           3.	By Drone
+           
+                      Package lists before delivery
+                      
+                      Remaining package list after delivery
+
 
            
            
