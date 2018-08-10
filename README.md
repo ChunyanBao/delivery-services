@@ -36,8 +36,11 @@ By Drone - For By Drone delivery, only one package can be delivered at a time. T
            This edge file includes the edges between the locations. The format for the file should be: location1#location2#speedLimit#distance#. Please see the file example: my_edge.txt
            
 * Use of main.cpp
+
            1.	Load packages, locations, and edges from the external files. 
+           
            2.	Set up the origination and destination.
+           
            3.	Set up the maximum packages can be delivered at once by standard delivery and express delivery.
 
            
