@@ -22,3 +22,11 @@ By Drone - For By Drone delivery, only one package can be delivered at a time. T
 # User Guide
 
 * This program needs three external text files for input:
+
+1. a list of packages for delivery
+The package has a destination, size, and weight. So the format for the package file should be: destination#size#weight#. This program only accepts packages with the same destination. Please see the file example: package.txt
+2. a list of vertices/locations
+The vertex file includes all the locations. Please see the file example: my_vertex.txt
+3. edges between locations
+This edge file includes the edges between the locations. The format for the file should be: location1#location2#speedLimit#distance#. Please see the file example: my_edge.txt
+
